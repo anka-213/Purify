@@ -57,7 +57,7 @@
          "<!DOCTYPE html>" +
          "<html>" +
             "<head>" +
-               "<link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'>" +
+               "<link href='//fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'>" +
                "<link type='text/css' rel='stylesheet' href='" +
                   chrome.extension.getURL( "css/style.css" ) +
                "'></link>" +
